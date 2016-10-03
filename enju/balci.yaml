@@ -1,0 +1,37 @@
+name:           "balci"
+colors:
+  primary:      "red"
+  secondary:    "yellow"
+  inactive:     "#d2c8bb"
+  foreground:   "#d2c8bb"
+  background:   "#252525"
+  not-foreground:       "d2c8bb"
+  notify: "252525"
+  cursor:       "#cccccc"
+  cursor:       "#cccccc"
+  black:
+    normal:     "#5b6641"
+    bold:       "#616654"
+  red:
+    normal:     "#59bf8f"
+    bold:       "#87bfa5"
+  green:
+    normal:     "#469f65"
+    bold:       "#719f81"
+  yellow:
+    normal:     "#30623f"
+    bold:       "#45624e"
+  blue:
+    normal:     "#54711f"
+    bold:       "#657150"
+  magenta:
+    normal:     "#4ad5d2"
+    bold:       "#97d5d4"
+  cyan:
+    normal:     "#2f4c21"
+    bold:       "#3d4c36"
+  white:
+    normal:     "#d2c8bb"
+    bold:       "#b9b1a5"
+
+wallpaper:    "/home/skr0tm/Pictures/wallpaper/balcony.jpg"

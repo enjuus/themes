@@ -1,0 +1,37 @@
+name:           "slate"
+colors:
+  primary:      "red"
+  secondary:    "yellow"
+  inactive:     "#69734d"
+  foreground:   "#939381"
+  background:   "#242a2b"
+  not-foreground:       "939381"
+  notify: "242a2b"
+  cursor:       "#cccccc"
+  cursor:       "#cccccc"
+  black:
+    normal:     "#5e5e5e"
+    bold:       "#5e5e5e"
+  red:
+    normal:     "#5c4033"
+    bold:       "#674839"
+  green:
+    normal:     "#6e794f"
+    bold:       "#6e794f"
+  yellow:
+    normal:     "#8d8150"
+    bold:       "#8d8150"
+  blue:
+    normal:     "#3b474e"
+    bold:       "#3b474e"
+  magenta:
+    normal:     "#554c41"
+    bold:       "#554c41"
+  cyan:
+    normal:     "#495355"
+    bold:       "#495355"
+  white:
+    normal:     "#939381"
+    bold:       "#939381"
+
+wallpaper:    "/home/skr0tm/Pictures/wallpaper/girlcat.jpg"

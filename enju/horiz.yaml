@@ -1,0 +1,57 @@
+name:           "horiz"
+
+colors:
+  primary:      "blue"
+  secondary:    "cyan"
+  inactive:     "#28291f"
+  foreground:   "#b7c2c8"
+  background:   "#28291f"
+  notify:       "28291f"
+  not-foreground: "b7c2c8"
+  cursor:       "#cccccc"
+  black:
+    normal:     "#5e5e5e"
+    bold:       "#5e5e5e"
+  red:
+    normal:     "#db5151"
+    bold:       "#db5151"
+  green:
+    normal:     "#7a9272"
+    bold:       "#7a9272"
+  yellow:
+    normal:     "#eaa85e"
+    bold:       "#eaa85e"
+  blue:
+    normal:     "#4d4791"
+    bold:       "#4d4791"
+  magenta:
+    normal:     "#a53946"
+    bold:       "#a53946"
+  cyan:
+  cursor:       "#b7c2c8"
+  black:
+    normal:     "#484848"
+    bold:       "#484848"
+  red:
+    normal:     "#cd7777"
+    bold:       "#cd7777"
+  green:
+    normal:     "#1288a3"
+    bold:       "#1288a3"
+  yellow:
+    normal:     "#a3a987"
+    bold:       "#a3a987"
+  blue:
+    normal:     "#214e6d"
+    bold:       "#214e6d"
+  magenta:
+    normal:     "#6094aa"
+    bold:       "#6094aa"
+  cyan:
+    normal:     "#3a98b1"
+    bold:       "#3a98b1"
+  white:
+    normal:     "#b7c2c8"
+    bold:       "#b7c2c8"
+
+wallpaper:    "/home/skr0tm/Pictures/wallpaper/horizons.jpg"

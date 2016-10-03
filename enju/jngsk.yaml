@@ -1,0 +1,37 @@
+name:           "slate"
+colors:
+  primary:      "red"
+  secondary:    "yellow"
+  inactive:     "#393939"
+  foreground:   "#adbac0"
+  background:   "#393939"
+  notify:       "adbac0"
+  not-foreground: "393939"
+  cursor:       "#cccccc"
+  cursor:       "#cccccc"
+  black:
+    normal:     "#5e5e5e"
+    bold:       "#5e5e5e"
+  red:
+    normal:     "#6f694d"
+    bold:       "#6f694d"
+  green:
+    normal:     "#749253"
+    bold:       "#749253"
+  yellow:
+    normal:     "#b2bb50"
+    bold:       "#b2bb50"
+  blue:
+    normal:     "#607b8c"
+    bold:       "#607b8c"
+  magenta:
+    normal:     "#42623d"
+    bold:       "#42623d"
+  cyan:
+    normal:     "#669972"
+    bold:       "#669972"
+  white:
+    normal:     "#adbac0"
+    bold:       "#adbac0"
+
+wallpaper:    "/home/skr0tm/Pictures/wallpaper/jungle.jpg"

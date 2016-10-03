@@ -1,0 +1,34 @@
+name:           "pcolr"
+colors:
+  inactive:     "#"
+  foreground:   "#738A8A"
+  background:   "#181512"
+  not-foreground:       "181512"
+  notify: "181512"
+  cursor:       "#CA5E64"
+  black:
+    normal:     "#3B444F"
+    bold:       "#4A585A"
+  red:
+    normal:     "#CD546C"
+    bold:       "#EF545F"
+  green:
+    normal:     "#A5AF86"
+    bold:       "#BDC79E"
+  yellow:
+    normal:     "#CD7860"
+    bold:       "#E88773"
+  blue:
+    normal:     "#7A9388"
+    bold:       "#94B1A3"
+  magenta:
+    normal:     "#75434C"
+    bold:       "#BB6C73"
+  cyan:
+    normal:     "#767D75"
+    bold:       "#9DA69E"
+  white:
+    normal:     "#C2C2A8"
+    bold:       "#DBDAC1"
+
+wallpaper:    "/home/skr0tm/Pictures/wallpaper/girlcat.jpg"

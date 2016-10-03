@@ -1,0 +1,32 @@
+name:   "fray"
+colors:
+ foreground:   "#FFFFFF"
+ background:   "#111111"
+ notify:       "#111111"
+ not-foreground: "#FFFFFF"
+ cursor:       "#cccccc"
+ black:
+     normal:     "#202020"
+     bold:       "#202020"
+ red:
+     normal:     "#F8F8F8"
+     bold:       "#F8F8F8"
+ green:
+     normal:     "#AADB0F"
+     bold:       "#AADB0F"
+ yellow:
+     normal:     "#F7F7F7"
+     bold:       "#F7F7F7"
+ blue:
+     normal:     "#606060"
+     bold:       "#606060"
+ magenta:
+     normal:     "#91BA0D"
+     bold:       "#91BA0D"
+ cyan:
+     normal:     "#E2E2E2"
+     bold:       "#E2E2E2"
+ white:
+     normal:     "#FFFFFF"
+     bold:       "#FFFFFF"
+wallpaper:    "/home/skr0tm/Pictures/wallpaper/backstreet.jpg"

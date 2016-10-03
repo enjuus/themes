@@ -1,0 +1,56 @@
+name:           "lerks"
+colors:
+  primary:      "red"
+  secondary:    "yellow"
+  inactive:     "#070101"
+  foreground:   "#b1c5c6"
+  background:   "#211818"
+  not-foreground:       "b1c5c6"
+  notify: "211818"
+  cursor:       "#cccccc"
+  black:
+    normal:     "#5e5e5e"
+    bold:       "#5e5e5e"
+  red:
+    normal:     "#db5151"
+    bold:       "#db5151"
+  green:
+    normal:     "#7a9272"
+    bold:       "#7a9272"
+  yellow:
+    normal:     "#eaa85e"
+    bold:       "#eaa85e"
+  blue:
+    normal:     "#4d4791"
+    bold:       "#4d4791"
+  magenta:
+    normal:     "#a53946"
+    bold:       "#a53946"
+  cyan:
+  cursor:       "#b1c5c6"
+  black:
+    normal:     "#413b38"
+    bold:       "#413b38"
+  red:
+    normal:     "#c37b49"
+    bold:       "#c37b49"
+  green:
+    normal:     "#544929"
+    bold:       "#544929"
+  yellow:
+    normal:     "#8e6245"
+    bold:       "#8e6245"
+  blue:
+    normal:     "#81abae"
+    bold:       "#81abae"
+  magenta:
+    normal:     "#645045"
+    bold:       "#645045"
+  cyan:
+    normal:     "#5e8d87"
+    bold:       "#5e8d87"
+  white:
+    normal:     "#b1c5c6"
+    bold:       "#b1c5c6"
+
+wallpaper:    "/home/skr0tm/Pictures/wallpaper/lake.jpg"

@@ -1,0 +1,36 @@
+name:           ""
+colors:
+  primary:      "red"
+  secondary:    "yellow"
+  inactive:     "#"
+  foreground:   "#D2C5BC"
+  background:   "#101010"
+  notify:       "D2C5BC"
+  not-foreground: "D2C5BC"
+  cursor:       "#202020"
+  black:
+    normal:     "#202020"
+    bold:       "#606060"
+  red:
+    normal:     "#B91E2E"
+    bold:       "#D14548"
+  green:
+    normal:     "#81957C"
+    bold:       "#A7B79A"
+  yellow:
+    normal:     "#F9BB80"
+    bold:       "#FAE3A0"
+  blue:
+    normal:     "#356579"
+    bold:       "#7491A1"
+  magenta:
+    normal:     "#2D2031"
+    bold:       "#87314E"
+  cyan:
+    normal:     "#0B3452"
+    bold:       "#0F829D"
+  white:
+    normal:     "#909090"
+    bold:       "#FFF0F0"
+
+wallpaper:    "/home/skr0tm/Pictures/wallpaper/diamond.jpg"
