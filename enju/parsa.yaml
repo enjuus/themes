@@ -1,0 +1,32 @@
+name:   "parsa"
+colors:
+ foreground:   "#e3c8a3"
+ background:   "#2c2624"
+ notify:       "#2c2624"
+ not-foreground: "#e3c8a3"
+ cursor:       "#e3c8a3"
+ black:
+     normal:     "#2c2624"
+     bold:       "#433a37"
+ red:
+     normal:     "#733b35"
+     bold:       "#733b35"
+ green:
+     normal:     "#606857"
+     bold:       "#606857"
+ yellow:
+     normal:     "#fed49a"
+     bold:       "#fed49a"
+ blue:
+     normal:     "#58525a"
+     bold:       "#58525a"
+ magenta:
+     normal:     "#5e443b"
+     bold:       "#5e443b"
+ cyan:
+     normal:     "#8b8b89"
+     bold:       "#8b8b89"
+ white:
+     normal:     "#e3c8a3"
+     bold:       "#e3c8a3"
+wallpaper:    "/home/skr0tm/pic/wallpaper/paris.jpg"

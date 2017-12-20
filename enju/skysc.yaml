@@ -1,0 +1,32 @@
+name:   "skysc"
+colors:
+ foreground:   "#aeb6ab"
+ background:   "#2b3131"
+ notify:       "#2b3131"
+ not-foreground: "#909d95"
+ cursor:       "#909d95"
+ black:
+     normal:     "#2b3131"
+     bold:       "#626b65"
+ red:
+     normal:     "#c77471"
+     bold:       "#a8625f"
+ green:
+     normal:     "#7c967d"
+     bold:       "#5c755d"
+ yellow:
+     normal:     "#968b60"
+     bold:       "#6b6345"
+ blue:
+     normal:     "#4b6f6f"
+     bold:       "#3a5656"
+ magenta:
+     normal:     "#625c42"
+     bold:       "#4a4532"
+ cyan:
+     normal:     "#5d857a"
+     bold:       "#51736a"
+ white:
+     normal:     "#aeb6ab"
+     bold:       "#909d95"
+wallpaper:    "/home/skr0tm/pic/wallpaper/skyhouse.png"

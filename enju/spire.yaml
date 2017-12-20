@@ -1,0 +1,28 @@
+colors:
+  background:         "#262f33"
+  foreground:         "#b5b699"
+  cursor:             "#cccccc"
+  black:
+    normal:           "#273034"
+    bold:             "#464c50"
+  red:
+    normal:           "#804f4e"
+    bold:             "#804f4e"
+  green:
+    normal:           "#68786c"
+    bold:             "#68786c"
+  yellow:
+    normal:           "#948d65"
+    bold:             "#948d65"
+  blue:
+    normal:           "#47575f"
+    bold:             "#47575f"
+  magenta:
+    normal:           "#74636a"
+    bold:             "#74636a"
+  cyan:
+    normal:           "#526562"
+    bold:             "#526562"
+  white:
+    normal:           "#b5b699"
+    bold:             "#cbcbb7"

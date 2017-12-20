@@ -1,0 +1,32 @@
+name:   "volvo"
+colors:
+ foreground:   "#8f8f8a"
+ background:   "#303030"
+ notify:       "#303030"
+ not-foreground: "#8f8f8a"
+ cursor:       "#8f8f8a"
+ black:
+     normal:     "#303030"
+     bold:       "#4a4a4a"
+ red:
+     normal:     "#554c45"
+     bold:       "#776b61"
+ green:
+     normal:     "#9e988a"
+     bold:       "#b5ae9e"
+ yellow:
+     normal:     "#4d6842"
+     bold:       "#5f8051"
+ blue:
+     normal:     "#304362"
+     bold:       "#3d557c"
+ magenta:
+     normal:     "#83787e"
+     bold:       "#9d9097"
+ cyan:
+     normal:     "#63799e"
+     bold:       "#728bb6"
+ white:
+     normal:     "#8f8f8a"
+     bold:       "#adada7"
+wallpaper:    "/home/skr0tm/pic/wallpaper/volvo.jpg"

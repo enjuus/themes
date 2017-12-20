@@ -1,0 +1,36 @@
+name:           "briag"
+colors:
+  primary:      "red"
+  secondary:    "yellow"
+  inactive:     "#"
+  foreground:   "#434d43"
+  background:   "#c6d1d0"
+  notify:       "c6d1d0"
+  not-foreground: "c6d1d0"
+  cursor:       "#c8c57e"
+  black:
+    normal:     "#cbd6d2"
+    bold:       "#bdc8c4"
+  red:
+    normal:     "#c35f5f"
+    bold:       "#a65a5a"
+  green:
+    normal:     "#76a259"
+    bold:       "#5f8348"
+  yellow:
+    normal:     "#c8c57e"
+    bold:       "#9a9861"
+  blue:
+    normal:     "#6991aa"
+    bold:       "#426080"
+  magenta:
+    normal:     "#c486a7"
+    bold:       "#a3708b"
+  cyan:
+    normal:     "#76b3ad"
+    bold:       "#5f908b"
+  white:
+    normal:     "#434d43"
+    bold:       "#343c34"
+
+wallpaper:    "/home/skr0tm/pic/chair_blur.jpg"

@@ -1,0 +1,32 @@
+name:   "bckst"
+colors:
+ foreground:   "#b9b9b9"
+ background:   "#161616"
+ notify:       "#161616"
+ not-foreground: "#b9b9b9"
+ cursor:       "#b9b9b9"
+ black:
+     normal:     "#3f4c54"
+     bold:       "#2a3237"
+ red:
+     normal:     "#8f6b5f"
+     bold:       "#634a42"
+ green:
+     normal:     "#6e5f66"
+     bold:       "#4d4348"
+ yellow:
+     normal:     "#334754"
+     bold:       "#1f2b33"
+ blue:
+     normal:     "#42556b"
+     bold:       "#2c3947"
+ magenta:
+     normal:     "#718aab"
+     bold:       "#3b4859"
+ cyan:
+     normal:     "#9abee2"
+     bold:       "#566b7f"
+ white:
+     normal:     "#b9b9b9"
+     bold:       "#7f7f7f"
+wallpaper:    "/home/skr0tm/pic/wallpaper/backstreet.png"

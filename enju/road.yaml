@@ -1,0 +1,32 @@
+name:   "road"
+colors:
+ foreground:   "#9b9dac"
+ background:   "#1f1d1e"
+ notify:       "#1f1d1e"
+ not-foreground: "#9b9dac"
+ cursor:       "#9b9dac"
+ black:
+     normal:     "#1f1d1e"
+     bold:       "#343233"
+ red:
+     normal:     "#503e40"
+     bold:       "#372b2c"
+ green:
+     normal:     "#3d544f"
+     bold:       "#2b3c38"
+ yellow:
+     normal:     "#a58985"
+     bold:       "#796461"
+ blue:
+     normal:     "#1f4347"
+     bold:       "#142c2f"
+ magenta:
+     normal:     "#503e40"
+     bold:       "#372b2c"
+ cyan:
+     normal:     "#3d677d"
+     bold:       "#2e4d5d"
+ white:
+     normal:     "#9b9dac"
+     bold:       "#7b7d89"
+wallpaper:    "/home/skr0tm/pic/wallpaper/road.png"

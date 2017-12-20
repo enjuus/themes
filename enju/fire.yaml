@@ -1,0 +1,32 @@
+name:   "fire"
+colors:
+ foreground:   "#dcc3a9"
+ background:   "#292827"
+ notify:       "#292827"
+ not-foreground: "#dcc3a9"
+ cursor:       "#dcc3a9"
+ black:
+     normal:     "#292827"
+     bold:       "#555353"
+ red:
+     normal:     "#a9694b"
+     bold:       "#8c573e"
+ green:
+     normal:     "#d9a86d"
+     bold:       "#bc925e"
+ yellow:
+     normal:     "#b88b6a"
+     bold:       "#967156"
+ blue:
+     normal:     "#3d4766"
+     bold:       "#2b3247"
+ magenta:
+     normal:     "#cc9263"
+     bold:       "#ad7c54"
+ cyan:
+     normal:     "#706a87"
+     bold:       "#58546a"
+ white:
+     normal:     "#dcc3a9"
+     bold:       "#bda892"
+wallpaper:    "/home/skr0tm/pic/wallpaper/fire.png"

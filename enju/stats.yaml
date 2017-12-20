@@ -1,0 +1,32 @@
+name:   "stats"
+colors:
+ foreground:   "#e8e8db"
+ background:   "#26221c"
+ notify:       "#26221c"
+ not-foreground: "#e8e8db"
+ cursor:       "#e8e8db"
+ black:
+     normal:     "#26221c"
+     bold:       "#433c31"
+ red:
+     normal:     "#552826"
+     bold:       "#6a3230"
+ green:
+     normal:     "#383b1a"
+     bold:       "#5d622b"
+ yellow:
+     normal:     "#7f5c35"
+     bold:       "#926a3d"
+ blue:
+     normal:     "#2a4064"
+     bold:       "#334d79"
+ magenta:
+     normal:     "#8d4b4c"
+     bold:       "#a8595a"
+ cyan:
+     normal:     "#2a5d64"
+     bold:       "#35757d"
+ white:
+     normal:     "#e8e8db"
+     bold:       "#ccccc1"
+wallpaper:    "/home/skr0tm/pic/wallpaper/station.jpg"

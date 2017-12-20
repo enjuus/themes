@@ -1,0 +1,37 @@
+name:           "seags"
+colors:
+  primary:      "blue"
+  secondary:    "yellow"
+  inactive:     "#b0d4d4"
+  foreground:   "#5e5e5e"
+  background:   "#d9f6e7"
+  not-foreground:       "092b29"
+  notify: "d9f6e7"
+  cursor:       "#cccccc"
+  black:
+    normal:     "#5e5e5e"
+    bold:       "#5e5e5e"
+  red:
+    normal:     "#75c57f"
+    bold:       "#75c57f"
+  green:
+    normal:     "#5e5e5e"
+    bold:       "#5e5e5e"
+  yellow:
+    normal:     "#5e5e5e"
+    bold:       "#5e5e5e"
+  blue:
+    normal:     "#5e5e5e"
+    bold:       "#5e5e5e"
+  magenta:
+    normal:     "#5e5e5e"
+    bold:       "#5e5e5e"
+  cyan:
+    normal:     "#5e5e5e"
+    bold:       "#5e5e5e"
+  white:
+    normal:     "#5e5e5e"
+    bold:       "#5e5e5e"
+  cursor:       "#092b29"
+
+wallpaper:    "/home/skr0tm/pic/wallpaper/sea.jpg"

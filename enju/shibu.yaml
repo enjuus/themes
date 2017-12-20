@@ -1,0 +1,29 @@
+colors:
+  background:         "#162030"
+  foreground:         "#eeeeee"
+  cursor:             "#eeeeee"
+  black:
+    normal:           "#162030"
+    bold:             "#1d3c49"
+  red:
+    normal:           "#ce3544"
+    bold:             "#ce505c"
+  green:
+    normal:           "#c24e36"
+    bold:             "#bd7056"
+  yellow:
+    normal:           "#1d3c49"
+    bold:             "#2d4149"
+  blue:
+    normal:           "#342a58"
+    bold:             "#3e3758"
+  magenta:
+    normal:           "#45162a"
+    bold:             "#652135"
+  cyan:
+    normal:           "#2d7270"
+    bold:             "#358885"
+  white:
+    normal:           "#eeeeee"
+    bold:             "#bfbfbf"
+wallpaper: "/home/skr0tm/pic/wallpaper/shibuya.png"

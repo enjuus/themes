@@ -1,0 +1,32 @@
+name:   "naviry"
+colors:
+ foreground:   "#dad1c9"
+ background:   "#111e21"
+ notify:       "#111e21"
+ not-foreground: "#dad1c9"
+ cursor:       "#dad1c9"
+ black:
+     normal:     "#233336"
+     bold:       "#4f6c73"
+ red:
+     normal:     "#c28b8e"
+     bold:       "#efb7b0"
+ green:
+     normal:     "#9bbfad"
+     bold:       "#9fb6a5"
+ yellow:
+     normal:     "#8a837a"
+     bold:       "#beb7a8"
+ blue:
+     normal:     "#42464d"
+     bold:       "#79848d"
+ magenta:
+     normal:     "#ffbdca"
+     bold:       "#ffd0d3"
+ cyan:
+     normal:     "#9eb5b4"
+     bold:       "#bed9d8"
+ white:
+     normal:     "#f2f1cd"
+     bold:       "#f6f6da"
+wallpaper:    "/home/skr0tm/Pictures/wallpaper/pin.png"

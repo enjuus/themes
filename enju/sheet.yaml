@@ -1,0 +1,32 @@
+name:   "sheet"
+colors:
+ foreground:   "#848587"
+ background:   "#313f3d"
+ notify:       "#313f3d"
+ not-foreground: "#848587"
+ cursor:       "#848587"
+ black:
+     normal:     "#313f3d"
+     bold:       "#4c625f"
+ red:
+     normal:     "#786658"
+     bold:       "#786658"
+ green:
+     normal:     "#46726b"
+     bold:       "#46726b"
+ yellow:
+     normal:     "#9a9994"
+     bold:       "#9a9994"
+ blue:
+     normal:     "#55738b"
+     bold:       "#55738b"
+ magenta:
+     normal:     "#74697f"
+     bold:       "#74697f"
+ cyan:
+     normal:     "#859eb5"
+     bold:       "#859eb5"
+ white:
+     normal:     "#848587"
+     bold:       "#848587"
+wallpaper:    "/home/skr0tm/pic/wallpaper/sheets.jpg"

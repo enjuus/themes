@@ -1,0 +1,32 @@
+name:   "ivona"
+colors:
+ foreground:   "#E8DFD6"
+ background:   "#021B21"
+ notify:       "#021B21"
+ not-foreground: "#E8DFD6"
+ cursor:       "#cccccc"
+ black:
+     normal:     "#032C36"
+     bold:       "#065F73"
+ red:
+     normal:     "#C2454E"
+     bold:       "#EF5847"
+ green:
+     normal:     "#7CBF9E"
+     bold:       "#A2D9B1"
+ yellow:
+     normal:     "#8A7A63"
+     bold:       "#BEB090"
+ blue:
+     normal:     "#2E3340"
+     bold:       "#61778D"
+ magenta:
+     normal:     "#FF5879"
+     bold:       "#FF99A1"
+ cyan:
+     normal:     "#44B5B1"
+     bold:       "#9ED9D8"
+ white:
+     normal:     "#F2F1B9"
+     bold:       "#F6F6C9"
+wallpaper:    "/home/enju/Pictures/wallpaper/hair.png"

@@ -1,0 +1,26 @@
+name:                 "Down"
+colors:
+  primary:            "cyan"
+  secondary:          "yellow"
+  background:         "#1a2c2c"
+  red:
+    normal:           "#ab7253"
+    bold:             "#dd936b"
+  green:
+    normal:           "#b28667"
+    bold:             "#e4ab83"
+  yellow:
+    normal:           "#ae9984"
+    bold:             "#e0c4a9"
+  blue:
+    normal:           "#aaaba2"
+    bold:             "#dbddd1"
+  magenta:
+    normal:           "#81a7a5"
+    bold:             "#a7d9d6"
+  cyan:
+    normal:           "#53a4a1"
+    bold:             "#6cd6d2"
+
+wallpaper:            "/home/skr0tm/pic/wallpaper/down.png"
+

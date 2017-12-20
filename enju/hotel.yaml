@@ -1,0 +1,32 @@
+name:   "hotel"
+colors:
+ foreground:   "#c9cbb3"
+ background:   "#1f2e41"
+ notify:       "#1f2e41"
+ not-foreground: "#c9cbb3"
+ cursor:       "#c9cbb3"
+ black:
+     normal:     "#1f2e41"
+     bold:       "#2f4553"
+ red:
+     normal:     "#9a574e"
+     bold:       "#a66f68"
+ green:
+     normal:     "#c79058"
+     bold:       "#d7aa71"
+ yellow:
+     normal:     "#7b7662"
+     bold:       "#979a85"
+ blue:
+     normal:     "#4c5868"
+     bold:       "#687c7d"
+ magenta:
+     normal:     "#4d3646"
+     bold:       "#75474a"
+ cyan:
+     normal:     "#687c7d"
+     bold:       "#7f9899"
+ white:
+     normal:     "#c9cbb3"
+     bold:       "#d3d5bc"
+wallpaper:    "/home/skr0tm/pic/wallpaper/hotel.png"

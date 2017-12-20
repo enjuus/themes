@@ -1,0 +1,32 @@
+name:   "mount"
+colors:
+ foreground:   "#9d9d9a"
+ background:   "#171717"
+ notify:       "#171717"
+ not-foreground: "#9d9d9a"
+ cursor:       "#9d9d9a"
+ black:
+     normal:     "#171717"
+     bold:       "#2d2d2d"
+ red:
+     normal:     "#4d2f25"
+     bold:       "#37221b"
+ green:
+     normal:     "#57532e"
+     bold:       "#39361e"
+ yellow:
+     normal:     "#1c2e2c"
+     bold:       "#131f1d"
+ blue:
+     normal:     "#283a44"
+     bold:       "#1c2930"
+ magenta:
+     normal:     "#958c94"
+     bold:       "#6f7376"
+ cyan:
+     normal:     "#354c5a"
+     bold:       "#293b46"
+ white:
+     normal:     "#9d9d9a"
+     bold:       "#82827f"
+wallpaper:    "/home/skr0tm/pic/wallpaper/mountains.jpg"
